@@ -1,7 +1,10 @@
 #include "ofApp.h"
+using namespace std;
 
 //--------------------------------------------------------------
 void ofApp::setup(){
+
+cout << "Hello from setup";
 
 }
 
